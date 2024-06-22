@@ -1,1 +1,1 @@
-New Function is Great.
+int main () {}
