@@ -1,2 +1,3 @@
 # Include "Warrior.h"
-int MainFunction () {}
+int MAINFUNC () {}
+
